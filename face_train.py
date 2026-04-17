@@ -5,7 +5,7 @@ import pickle
 
 print("=== TRAINING FACE RECOGNIZER ===\n")
 
-data_dir = "my_face_data"
+data_dir = "my_face_data" 
 
 if not os.path.exists(data_dir):
     print(f"❌ Folder '{data_dir}' not found. Run step1_capture.py first!")
