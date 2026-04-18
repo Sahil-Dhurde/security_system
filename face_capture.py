@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Create directory to save your face images
-save_dir = "my_face_data"
+save_dir = "my_face_data" 
 os.makedirs(save_dir, exist_ok=True)
 
 cap = cv2.VideoCapture(0)
