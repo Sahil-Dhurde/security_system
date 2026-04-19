@@ -9,7 +9,7 @@ if not cap.isOpened():
 
 # Set camera resolution to maximum
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080) 
 
 # Create a named window and set it to full screen
 window_name = "Camera"
