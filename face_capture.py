@@ -1,5 +1,5 @@
 import cv2
-import os
+import os  
 
 # Create directory to save your face images
 save_dir = "my_face_data" 
