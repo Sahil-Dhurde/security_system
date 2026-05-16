@@ -54,7 +54,7 @@ print("=== LIVE FACE RECOGNITION + ZONE DETECTION ===\n")
 #  📧  EMAIL CONFIGURATION
 # =============================================================================
 EMAIL_ENABLED      = True
-SENDER_EMAIL       = "sahildhurde@gmail.com"      # ← your Gmail address
+SENDER_EMAILb      = "sahildhurde@gmail.com"      # ← your Gmail address
 SENDER_PASSWORD    = "nnln dsdo bjhp shgp"        # ← 16-char Gmail App Password
                                                   #   NOT your Gmail login password!
                                                   #   Get it: myaccount.google.com
